@@ -2,4 +2,4 @@
 
 ![mjapadilla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjapadilla&theme=onedark&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjapadilla&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjapadilla&count_private=true)
