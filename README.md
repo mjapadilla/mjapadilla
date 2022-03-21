@@ -1,1 +1,1 @@
-![mjapadilla's Stats](https://github-readme-stats.vercel.app/api?username=mjapadilla&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+![mjapadilla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjapadilla&theme=onedark&hide_border=true)
